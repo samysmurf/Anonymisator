@@ -1,0 +1,17 @@
+# Lizenzverzeichnis und Zuordnung
+
+Dieses Repository verwendet bewusst getrennte Lizenzmodelle. Diese Datei ist das Zuordnungsverzeichnis; sie ersetzt nicht die vollständigen Lizenztexte.
+
+## Eigener Programmcode
+
+Eigener Programmcode, den die Rechteinhaber wirksam unter dieser Lizenz bereitstellen, ist unter der **Apache License, Version 2.0** vorgesehen. Der vollständige Lizenztext steht in [LICENSE-CODE](LICENSE-CODE).
+
+## Originäre Projektdokumentation
+
+Originäre Projekttexte und Dokumentation, soweit die jeweiligen Beitragenden die erforderlichen Rechte besitzen, werden unter **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** bereitgestellt. Der Lizenzhinweis steht in [LICENSE-DOCS.md](LICENSE-DOCS.md); der Lizenztext ist unter https://creativecommons.org/licenses/by-sa/4.0/legalcode abrufbar.
+
+## Drittinhalte und Abgrenzung
+
+Die Projektlizenzen erfassen nicht automatisch Drittanbieterbibliotheken, Tesseract-Sprachdaten, Modelle, Datensätze, Marken, Logos, externe Texte oder sonstige Inhalte Dritter. Für solche Bestandteile gelten die jeweils einschlägigen Rechte und Bedingungen. Herkunft und Lizenz sind vor einer Übernahme gesondert zu prüfen.
+
+Die Zuordnung ist in [LICENSE_DECISION.md](LICENSE_DECISION.md) dokumentiert. Bei Zweifeln an Rechteinhaberschaft oder Lizenzkompatibilität darf ein Inhalt nicht ohne vorherige Klärung übernommen werden.
